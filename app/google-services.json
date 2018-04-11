@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098391797475",
+    "firebase_url": "https://shareapp-ec5fb.firebaseio.com",
+    "project_id": "shareapp-ec5fb",
+    "storage_bucket": "shareapp-ec5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098391797475:android:4c5c6504fdbb9f94",
+        "android_client_info": {
+          "package_name": "com.example.bhupendra.shareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098391797475-8ec7ge3tu5ive04iessdm50eqopdmsjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhupendra.shareapp",
+            "certificate_hash": "c5c68530847f255e69173ff61bb33e7f969d9492"
+          }
+        },
+        {
+          "client_id": "1098391797475-i91oslmg1qj21em1pfmsccohe5job9k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgPe8sgSnhWh1Y_UMfLh2Ses2kM5eOWj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098391797475-i91oslmg1qj21em1pfmsccohe5job9k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

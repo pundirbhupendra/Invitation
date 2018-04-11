@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShareApp</string>
+    <string name="action_deep_link">
+        com.delaroystudios.appinvites.DEEP_LINK_ACTION
+    </string>
+
+    <string name="invite">Send invitations ! </string>
+    <string name="Welcome">App invite\nQuickstart </string>
+    <string name="referrer_hind">Deep link not provide </string>
+    <string name="invitation_id_default">Invitation Id not set </string>
+    <string name="invite_friends">invite Friends </string>
+    <string name="invitation_title">send Invite Quick Invitation</string>
+    <string name="invitation_message"> This app is terrific ,give it a get $5 off! </string>
+
+    <string name="invitation_deep_link">http://example.com/offer/five_offer</string>
+    <string name="invitation_custom_image">http://www.google.com/image/branding/googlelogo/2x/googlelogo_color_27x92dp.png</string>
+
+    <string name="invitation_cta">Install !</string>
+    <string name="invitation_subject">Try this great app</string>
+    <string name="deep_link_fmt" formatted="false">Deep Link: %s</string>
+    <string name="invitation_id_fmt" formatted="false">Invitation ID: %s</string>
+
+
+    <string name="send_invitation_fmt" formatted="false"> Send %d invitations</string>
+
+    <string name="send_freind">Sending invitation faild</string>
+    <string name="invite_dialog_title">You got an invitation !</string>
+    <string name="gooogle_play_service_error">Google Play Service Error</string>
+
+    <string name="custom_invite">custom_invite</string>
+
+</resources>
